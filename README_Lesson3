@@ -1,4 +1,5 @@
-﻿Project: Sakila
+﻿Lesson 3
+Project: Sakila
 
 In this project, we are going to create a Web Application for the Sakila database. We will
 also be taking full advantage of Entity Framework and Scaffolding to create our web
